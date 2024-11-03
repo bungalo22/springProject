@@ -3,7 +3,6 @@ package com.example.springProject.controller;
 import com.example.springProject.kafka.KafkaProducer;
 import com.example.springProject.repository.CatRepository;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
